@@ -97,6 +97,8 @@
 }
 .line {
 }
+.arrow {
+}
 .box_3 {
 }
 .heading_1 {
@@ -153,5 +155,17 @@
   text-align:left;
 }
 .image1 {
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.flow_shape {
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 textarea, select, input, button { outline: none; }
